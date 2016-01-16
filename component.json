@@ -1,0 +1,10 @@
+{
+    "name": "fiten-scale",
+    "description": "页面缩放",
+    "repos": "https://github.com/2betop/placeholder.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.2"
+}
